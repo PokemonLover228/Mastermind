@@ -8,7 +8,6 @@ public class MasterClass
 		{
 			System.out.println("HELLO WORLD " + i);
 		}
-		System.out.println("goodbye world forever");
 		System.out.println("it was nice knowing you");
 	}
 }
